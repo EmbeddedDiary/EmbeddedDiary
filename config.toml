@@ -1,10 +1,16 @@
 baseURL = "https://embeddeddiary.github.io/"
-title = "|EmbeddedDiary"
+title = "EmbeddedDiary"
 languageCode = "en-us"
 paginate = 10
 theme = "Binario"
+
+disqusShortname = "embeddeddiary" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-147815896-1"
+
 
 [Params]
   description = "Hardware and Software blog"
   columns = 2
   dateFormat = "September 12, 2019"
+  colorTheme = "dark-red"
+  comments = true
